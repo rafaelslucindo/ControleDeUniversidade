@@ -1,0 +1,11 @@
+bin
+Release
+Debug
+*.DS_Store
+*.user
+*.suo
+obj
+.settings
+gen
+.classpath
+.tpignore
